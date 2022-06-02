@@ -6,23 +6,24 @@ Projeto da [Trybe](https://www.betrybe.com/) - Bloco 19 - Criação e orquestra�
 "Conteinerização" de aplicações de frontend, backend e testes com o uso de Docker, criando uma conexão entre elas e orquestrando seu funcionamento.
 
 <details>
-  <summary><strong>Meu desempenho</strong></summary><br />
+  <summary><strong>🏆 Meu desempenho</strong></summary><br />
 
-  <img />
+  <img src="project-info/docker-todo-list.png"/>
 </details>
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+> Este projeto foi desenvolvido com as seguintes tecnologias:
+
+<img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Juliano-Docker" height="46" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
 ## 📌 Habilidades
 
-Nesse projeto, desenvolvi as seguintes habilidades:
+> Neste projeto, desenvolvi as seguintes habilidades:
 
-- Usar comandos dockers no CLI - Interface de linha de comando;
-- Criar um contêiner Docker para uma aplicação de front-end;
-- Criar um contêiner Docker para uma aplicação de back-end;
-- Criar um contêiner Docker para uma aplicação de testes;
-- Orquestrar os três contêineres utilizando o Docker compose.
+- Usar comandos Docker na CLI;
+- Criar imagens Docker de aplicações;
+- Criar e executar contêineres Docker;
+- Orquestrar contêineres utilizando o Docker Compose.
 
 ## ⬇️ Instalando dependências
 
