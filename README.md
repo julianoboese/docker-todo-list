@@ -14,7 +14,8 @@ Projeto da [Trybe](https://www.betrybe.com/) - Bloco 19 - Criação e orquestra�
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
 
-<img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Juliano-Docker" height="46" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+- Bash
+- Docker
 
 ## 📌 Habilidades
 
